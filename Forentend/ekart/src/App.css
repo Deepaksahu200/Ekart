@@ -1,0 +1,41 @@
+
+body{
+    margin: 0;
+    padding: 0;
+}
+.productbutton{
+    border: 0px;
+    background: aliceblue;
+    padding-bottom: 50px;
+}
+
+.productbutton1{
+    border: 0px;
+    background: aliceblue;
+    padding-bottom: 50px;
+    margin-left: 10px;
+}
+.delete{
+    border: 0px;
+    background: white;
+    color: red;
+}
+.edit{
+    border: 0px;
+    /* background: white; */
+    background-color: white;
+    color: black;
+}
+
+/* .edit:hover{
+    background-color: white;
+    color: black;
+    border: 0px;
+} */
+.container{
+    padding: 10px;
+    background: white;   
+}
+.col input{
+    margin-bottom: 20px;
+}

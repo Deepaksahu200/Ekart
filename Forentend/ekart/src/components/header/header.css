@@ -1,0 +1,23 @@
+.header {
+    background: black;
+    color: white;
+    height: 40px;
+    width: 96vw;
+    margin-left: 50px;
+    position: fixed;
+    z-index: 2;
+}
+
+.mainlist{
+display: flex;
+justify-content: space-between;
+}
+
+.logo{
+display: flex;
+justify-content: space-around;
+}
+
+.fb{
+    width: 50px;
+}
